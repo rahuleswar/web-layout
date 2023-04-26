@@ -1,0 +1,205 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.col-1{
+    width: 8.33%;
+    padding: 0 20px;
+}
+
+.col-2{
+	width: 16.66%;
+	padding: 0 20px;
+}
+
+.col-3{
+	width: 25%;
+	padding: 0 20px;
+}
+
+.col-4{
+	width: 33.33%;
+	padding: 0 20px;
+}
+
+.col-5{
+	width: 41.66%;
+	padding: 0 20px;
+}
+
+.col-6{
+	width: 50%;
+	padding: 0 20px;
+}
+
+.col-7{
+	width:58.33% ;
+	padding: 0 20px;
+}
+
+.col-8{
+	width:66.66% ;
+	padding: 0 20px;
+}
+
+.col-9{
+	width:75% ;
+	padding: 0 20px;
+}
+
+.col-10{
+	width:83.33% ;
+	padding: 0 20px;
+}
+
+.col-11{
+	width: 91.66%;
+	padding: 0 20px;
+}
+
+
+.col-12{
+	width: 100%;
+	padding: 0 20px;
+}
+
+section{
+	padding: 40px 0px;
+	position: relative;
+	top: 50px;
+}
+
+.s-1{
+	background-color: gray;
+}
+
+
+.item-left{
+	background-color: red;
+	height: 500px;
+}
+.item-right{
+	background-color: black;
+    height: 500px;
+}
+
+.s-2{
+	padding: 50px;
+	position: relative;
+	top: 150px;
+}
+
+.s2-left{
+	background-color: red;
+	height: 600px;
+}
+.s2-right{
+	background-color: black;
+    height: 600px;
+}
+
+.s-3{
+	background-color: gray;
+	padding: 50px;
+	position: relative;
+	top: 150px;
+}
+
+.s3-left{
+	background-color: red;
+	height: 250px;
+}
+.s3-right{
+	background-color: black;
+    height: 250px;
+}
+
+.s-4{
+	padding: 50px;
+	position: relative;
+	top: 150px;
+}
+
+.s4-left{
+	background-color: red;
+	height: 270px;
+}
+.s4-right{
+	background-color: black;
+    height: 270px;
+}
+
+.s-5{
+	background-color: gray;
+	padding: 50px;
+	position: relative;
+	top: 150px;
+}
+.s5-left{
+	background-color: black;
+	position: relative;
+	right: -180px;
+    height: 290px;
+}
+
+.s-6{
+	padding: 40px;
+	position: relative;
+	top: 150px;
+}
+
+.s6-left{
+	background-color: red;
+	height: 400px;
+}
+.s6-right{
+	background-color: black;
+    height: 400px;
+}
+
+.s-7{
+	background-color: gray;
+	padding: 40px;
+	position: relative;
+	top: 150px;
+}
+
+.s7-left{
+	background-color: red;
+	height: 600px;
+}
+.s7-right{
+	background-color: black;
+    height: 600px;
+}
+
+.s-9{
+	background-color: gray;
+	padding: 100px;
+	position: relative;
+	top: 150px;
+}
+
+.s9-left{
+	background-color: red;
+	height: 150px;
+}
+.s9-right{
+	background-color: black;
+    height: 150px;
+}
+
+
+.s-10{
+	background-color: black;
+	position: relative;
+	top: 350px;
+	height: 300px;
+}
